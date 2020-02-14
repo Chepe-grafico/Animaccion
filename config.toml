@@ -1,0 +1,4 @@
+baseURL = "http://www.animaccion.ga/"
+languageCode = "en-us"
+title = "Animaccion"
+theme = "animaccion"
